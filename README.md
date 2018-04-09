@@ -1,2 +1,4 @@
 # hello-world
-Mt first repo
+My first repo
+
+This is my first commit on GIT.
